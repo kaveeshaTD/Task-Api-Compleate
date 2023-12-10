@@ -1,0 +1,12 @@
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\bin\Debug\net5.0\TaskApi.Models.deps.json
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\bin\Debug\net5.0\TaskApi.Models.dll
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\bin\Debug\net5.0\TaskApi.Models.pdb
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.csproj.AssemblyReference.cache
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.AssemblyInfoInputs.cache
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.AssemblyInfo.cs
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.csproj.CoreCompileInputs.cache
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.dll
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\ref\TaskApi.Models.dll
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\obj\Debug\net5.0\TaskApi.Models.pdb
+D:\ASP. net Web api new proj\Redo taskApi\TaskApi.Models\bin\Debug\net5.0\ref\TaskApi.Models.dll
